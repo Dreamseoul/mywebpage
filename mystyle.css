@@ -1,0 +1,53 @@
+body {
+  background-image: linear-gradient(#863A6F, #FFADBC);
+}
+
+h1 {
+  font-family: Arial Black;
+  font-size: 2rem;
+  color: #FFF89A;
+}
+
+div {
+  width: 80%;
+  height: 650px;
+  border: 10px solid #E5B8F4;
+  margin: 50px auto;
+  border-radius: 10% / 20%;
+  background-image: linear-gradient(#975C8D, #D989B5);
+}
+
+.borderStyle {
+  background-color: #975C8D;
+  border: 3px solid pink;
+  border-radius: 10px;
+  font-family: forte;
+  color: #FFF89A
+}
+
+.tableFormat {
+  text-align: left;
+  color: #E4D192;
+  font-family: forte;
+}
+
+.tableFormat2 {
+  text-align: center;
+  color: #E4D192;
+  font-family: forte;
+}
+
+.tableFormat3 {
+  text-align: right;
+  color: #E4D192;
+  font-family: forte;
+}
+
+#style1 {
+  color: #E4D192;
+  font-family: forte;
+  background-color: #975C8D;
+  border-radius: 10px;
+  border: 3px solid pink;
+  text-align: center
+}
